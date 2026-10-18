@@ -1,5 +1,5 @@
 // netlify/functions/magpie.js
-// This file goes in: netlify/functions/magpie
+// This file goes in: netlify/functions/magpie.js
 
 exports.handler = async (event, context) => {
   const magpieFinds = [
@@ -21,7 +21,7 @@ exports.handler = async (event, context) => {
     "a watch face with no hands",
     "a nail",
     "a washer",
-    "a piece of tinfoil shaped like a swan",
+    "a piece of tinfoil shaped like a crown",
     "a battery (do not eat)",
     "a tiny gear from an unknown machine",
     "a rusted screw",
