@@ -1,5 +1,5 @@
 // netlify/functions/magpie.js
-// This file goes in: netlify/functions/magpie.js
+// This file goes in: netlify/functions/magpie
 
 exports.handler = async (event, context) => {
   const magpieFinds = [
